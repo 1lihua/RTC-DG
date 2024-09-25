@@ -1,0 +1,20 @@
+mkl_intel_lp64.lib;mkl_core.lib;libiomp5md.lib;pthreadVC2.lib;mkl_intel_thread.lib;metis.lib;
+
+C:\Program Files (x86)\Intel\oneAPI\mkl\2023.0.0\include;D:\environmeng_C\eigen-3.4.0\eigen-3.4.0\Eigen;D:\environmeng_C\pthreads-w32-2-9-1-release\Pre-built.2\include;D:\environmeng_C\metis-5.1.0\include
+
+
+
+
+C:\Program Files (x86)\Intel\oneAPI\mkl\2023.0.0\lib\intel64;C:\Program Files (x86)\Intel\oneAPI\compiler\2023.0.0\windows\compiler\lib\intel64_win;D:\environmeng_C\pthreads-w32-2-9-1-release\Pre-built.2\lib\x64;D:\environmeng_C\metis-5.1.0\build\libmetis\Release
+
+
+
+
+
+
+C:\Program Files (x86)\Intel\oneAPI\mpi\2021.10.0\include
+
+
+C:\Program Files (x86)\Intel\oneAPI\mpi\2021.10.0\lib\release
+
+impi.lib
